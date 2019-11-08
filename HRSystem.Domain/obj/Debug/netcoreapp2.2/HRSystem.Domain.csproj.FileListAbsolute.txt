@@ -1,0 +1,8 @@
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\bin\Debug\netcoreapp2.2\HRSystem.Domain.deps.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\bin\Debug\netcoreapp2.2\HRSystem.Domain.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\bin\Debug\netcoreapp2.2\HRSystem.Domain.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\obj\Debug\netcoreapp2.2\HRSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\obj\Debug\netcoreapp2.2\HRSystem.Domain.AssemblyInfo.cs
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\obj\Debug\netcoreapp2.2\HRSystem.Domain.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\obj\Debug\netcoreapp2.2\HRSystem.Domain.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Domain\obj\Debug\netcoreapp2.2\HRSystem.Domain.csproj.CoreCompileInputs.cache

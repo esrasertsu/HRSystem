@@ -1,0 +1,297 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.API\\HRSystem.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.API\\HRSystem.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.API\\HRSystem.API.csproj",
+        "projectName": "HRSystem.API",
+        "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.API\\HRSystem.API.csproj",
+        "packagesPath": "C:\\Users\\esras\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\esras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Application\\HRSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Application\\HRSystem.Application.csproj"
+              },
+              "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\HRSystem.Persistence.csproj": {
+                "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\HRSystem.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Application\\HRSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Application\\HRSystem.Application.csproj",
+        "projectName": "HRSystem.Application",
+        "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Application\\HRSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\esras\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\esras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\HRSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\HRSystem.Domain.csproj"
+              },
+              "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\HRSystem.Persistence.csproj": {
+                "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\HRSystem.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\HRSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\HRSystem.Domain.csproj",
+        "projectName": "HRSystem.Domain",
+        "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\HRSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\esras\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\esras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\HRSystem.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\HRSystem.Persistence.csproj",
+        "projectName": "HRSystem.Persistence",
+        "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\HRSystem.Persistence.csproj",
+        "packagesPath": "C:\\Users\\esras\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\esras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\HRSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\esras\\OneDrive\\Belgeler\\Visual Studio 2017\\Projects\\HRSystem.API\\HRSystem.Domain\\HRSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

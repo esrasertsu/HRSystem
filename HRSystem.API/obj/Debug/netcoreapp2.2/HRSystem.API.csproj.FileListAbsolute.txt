@@ -1,0 +1,14 @@
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\bin\Debug\netcoreapp2.2\HRSystem.API.deps.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\bin\Debug\netcoreapp2.2\HRSystem.API.runtimeconfig.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\bin\Debug\netcoreapp2.2\HRSystem.API.runtimeconfig.dev.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\bin\Debug\netcoreapp2.2\HRSystem.API.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\bin\Debug\netcoreapp2.2\HRSystem.API.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.csprojAssemblyReference.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.RazorAssemblyInfo.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.RazorAssemblyInfo.cs
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.AssemblyInfoInputs.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.AssemblyInfo.cs
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.RazorTargetAssemblyInfo.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.API\obj\Debug\netcoreapp2.2\HRSystem.API.csproj.CoreCompileInputs.cache

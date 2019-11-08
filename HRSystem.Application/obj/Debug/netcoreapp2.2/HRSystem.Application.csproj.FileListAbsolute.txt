@@ -1,0 +1,9 @@
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\bin\Debug\netcoreapp2.2\HRSystem.Application.deps.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\bin\Debug\netcoreapp2.2\HRSystem.Application.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\bin\Debug\netcoreapp2.2\HRSystem.Application.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\obj\Debug\netcoreapp2.2\HRSystem.Application.AssemblyInfoInputs.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\obj\Debug\netcoreapp2.2\HRSystem.Application.AssemblyInfo.cs
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\obj\Debug\netcoreapp2.2\HRSystem.Application.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\obj\Debug\netcoreapp2.2\HRSystem.Application.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\obj\Debug\netcoreapp2.2\HRSystem.Application.csprojAssemblyReference.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Application\obj\Debug\netcoreapp2.2\HRSystem.Application.csproj.CoreCompileInputs.cache

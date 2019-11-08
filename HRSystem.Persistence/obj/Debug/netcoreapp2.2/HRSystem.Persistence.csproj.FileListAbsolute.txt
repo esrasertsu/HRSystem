@@ -1,0 +1,11 @@
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\bin\Debug\netcoreapp2.2\HRSystem.Persistence.deps.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\bin\Debug\netcoreapp2.2\HRSystem.Persistence.runtimeconfig.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\bin\Debug\netcoreapp2.2\HRSystem.Persistence.runtimeconfig.dev.json
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\bin\Debug\netcoreapp2.2\HRSystem.Persistence.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\bin\Debug\netcoreapp2.2\HRSystem.Persistence.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\obj\Debug\netcoreapp2.2\HRSystem.Persistence.csprojAssemblyReference.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\obj\Debug\netcoreapp2.2\HRSystem.Persistence.AssemblyInfoInputs.cache
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\obj\Debug\netcoreapp2.2\HRSystem.Persistence.AssemblyInfo.cs
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\obj\Debug\netcoreapp2.2\HRSystem.Persistence.dll
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\obj\Debug\netcoreapp2.2\HRSystem.Persistence.pdb
+C:\Users\esras\OneDrive\Belgeler\Visual Studio 2017\Projects\HRSystem.API\HRSystem.Persistence\obj\Debug\netcoreapp2.2\HRSystem.Persistence.csproj.CoreCompileInputs.cache
